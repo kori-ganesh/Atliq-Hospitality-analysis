@@ -31,12 +31,12 @@ To measure performance accurately, I implemented the following industry-standard
 ### 1. Executive Revenue Overview
 * **Focus:** High-level trends and property comparisons.
 * **Features:** Revenue & Occupancy trends over weeks, and city-wise performance splits.
-* ![ https://github.com/kori-ganesh/Atliq-Hospitality-analysis/blob/main/Executive%20Revenue%20Overview.png ]
+  ![ ](https://github.com/kori-ganesh/Atliq-Hospitality-analysis/blob/main/Executive%20Revenue%20Overview.png)
 
 ### 2. Channel & Booking Efficiency
 * **Focus:** Platform performance and cancellation analysis.
 * **Features:** Analysis of booking platforms (LogTrip, MakeYourTrip, etc.) and their impact on revenue efficiency.
-* *![Insert Screenshot Link Here]*
+  ![Insert Screenshot Link Here](https://github.com/kori-ganesh/Atliq-Hospitality-analysis/blob/main/Booking%20Efficiency.png)
 
 ---
 
@@ -48,6 +48,11 @@ To measure performance accurately, I implemented the following industry-standard
     * *Strategy:* Significant potential for new property launches to capture existing demand.
 * **⚠️ Hyderabad - Operational Focus:** Currently underperforming with lower occupancy and customer satisfaction ratings.
     * *Strategy:* Improve service quality and operational efficiency before further investment.
+
+## 🔗 Live Interactive Dashboard
+[![View Dashboard](https://img.shields.io/badge/View_Live_Dashboard-Power_BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDc0ZTc1YzEtNDExNC00ZDc0LWIzZTQtOWFhZTlhNjkxMmM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+> **Note:** If the link doesn't open, please ensure you have access to the Power BI service or try a different browser.
 
 ## 📈 Project Outcome
 This dashboard empowers stakeholders to:
