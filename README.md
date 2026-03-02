@@ -31,7 +31,7 @@ To measure performance accurately, I implemented the following industry-standard
 ### 1. Executive Revenue Overview
 * **Focus:** High-level trends and property comparisons.
 * **Features:** Revenue & Occupancy trends over weeks, and city-wise performance splits.
-* *![Insert Screenshot Link Here]*
+* ![ https://github.com/kori-ganesh/Atliq-Hospitality-analysis/blob/main/Executive%20Revenue%20Overview.png ]
 
 ### 2. Channel & Booking Efficiency
 * **Focus:** Platform performance and cancellation analysis.
